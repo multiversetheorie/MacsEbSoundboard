@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MacsEbSoundboard</string>
+    <string name="pause_sign">||</string>
+    <string name="stop_button">Stop</string>
 </resources>

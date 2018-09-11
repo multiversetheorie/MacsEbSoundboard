@@ -25,14 +25,14 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="||"/>
+            android:text="@string/pause_sign"/>
 
         <Button
             android:id="@+id/stop_repter"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Stop"/>
+            android:text="@string/stop_button"/>
 
     </LinearLayout>
 
@@ -54,14 +54,14 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="||"/>
+            android:text="@string/pause_sign"/>
 
         <Button
             android:id="@+id/stop_nemjon"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Stop"/>
+            android:text="@string/stop_button"/>
 
     </LinearLayout>
 
@@ -83,14 +83,14 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="||"/>
+            android:text="@string/pause_sign"/>
 
         <Button
             android:id="@+id/stop_dontbe"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Stop"/>
+            android:text="@string/stop_button"/>
 
     </LinearLayout>
 
@@ -112,14 +112,14 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="||"/>
+            android:text="@string/pause_sign"/>
 
         <Button
             android:id="@+id/stop_election"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Stop"/>
+            android:text="@string/stop_button"/>
 
     </LinearLayout>
 
@@ -141,14 +141,14 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="||"/>
+            android:text="@string/pause_sign"/>
 
         <Button
             android:id="@+id/stop_danger"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Stop"/>
+            android:text="@string/stop_button"/>
 
     </LinearLayout>
 
@@ -170,14 +170,14 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="||"/>
+            android:text="@string/pause_sign"/>
 
         <Button
             android:id="@+id/stop_hplss"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Stop"/>
+            android:text="@string/stop_button"/>
 
     </LinearLayout>
 </LinearLayout>
